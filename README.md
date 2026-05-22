@@ -474,3 +474,13 @@ FINAL OUTPUT
 - [OpenAI Best Practices](https://platform.openai.com/docs/guides/prompt-engineering)
 
 ---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

@@ -98,3 +98,15 @@ Uma landing page que:
 ✅ comunica valor da consultoria de forma simples e eficaz.  
 
 Produza isso com **copy persuasiva e design limpo** com foco no público de decisores de pequenas e médias empresas.
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

@@ -128,6 +128,14 @@ Segue abaixo as perguntas e resposta:
     Depende do cenário da empresa.
     Alguns ajustes geram impacto rápido, outros exigem mais estrutura. O importante é clareza desde o início.
 
---------------------------------------------------------------------------------------------------------------
+---
 
+# 👤 Autor
 
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

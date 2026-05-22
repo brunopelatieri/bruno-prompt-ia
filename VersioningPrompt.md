@@ -116,3 +116,13 @@ git tag -l
 ```
 
 ---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

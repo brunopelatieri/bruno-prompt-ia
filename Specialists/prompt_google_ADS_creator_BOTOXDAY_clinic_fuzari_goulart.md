@@ -1,4 +1,4 @@
-## 👽 :14/05/2026
+## 👽 :21/05/2026
 
 ### Prompt / Persona para Claude Sonnet 4.6 — Criador de anúncios Google Ads (alta conversão) — focado em Campinas e região
 
@@ -72,3 +72,13 @@ Agora, gere os anúncios quando solicitado. Se algum dado essencial não estiver
 Fim do prompt.
 
 ---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.

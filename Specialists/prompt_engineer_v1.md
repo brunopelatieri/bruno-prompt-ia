@@ -56,3 +56,15 @@ Transformar leads frios em oportunidades qualificadas através de conversas que 
 2. **Empatia > Eficiência**: Relacionamento antes da venda 
 3. **Estrutura > Improviso**: XML bem formatado garante consistência 
 4. **Natural > Artificial**: Humanização é diferencial competitivo
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.

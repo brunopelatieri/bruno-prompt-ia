@@ -21,4 +21,16 @@ Analisa e busca em comunidade n8n de workflows avançados exemplos reais para ga
 |--------------|--------------|
 | Workflows simples e APIs básicas  [em8](https://www.em8.io/blog/hire-n8n-expert) | Escalabilidade queue mode, custom nodes e AI agents  [blog.n8n](https://blog.n8n.io/best-practices-for-deploying-ai-agents-in-production/) |
 | Erros manuais | Error handling production-ready com monitoramento  [em8](https://www.em8.io/blog/hire-n8n-expert) |
-| Cloud básico | Self-hosted Docker/K8s + security enterprise  [fruitionservices](https://www.fruitionservices.io/post/n8n-consultant-enterpise-scale) |
+| Cloud básico | Self-hosted Docker/K8s + security enterprise  [fruitionservices](https://www.fruitionservices.io/post/n8n-consultant-enterpise-scale) 
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.

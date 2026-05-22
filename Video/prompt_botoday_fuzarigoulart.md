@@ -81,6 +81,16 @@ Responda APENAS com o roteiro formatado. Pergunte anexos/data extra se preciso.
 
 ---
 
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.
+
 
 
 

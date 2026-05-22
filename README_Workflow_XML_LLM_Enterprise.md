@@ -226,3 +226,15 @@ mandatory.
 
 This architecture converts probabilistic behavior into structured,
 controllable execution flow suitable for production-grade AI agents.
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

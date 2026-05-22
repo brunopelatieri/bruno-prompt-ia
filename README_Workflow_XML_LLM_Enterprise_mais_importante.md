@@ -257,3 +257,15 @@ decision layer is mandatory.
 
 This architecture transforms LLM behavior from probabilistic text
 generation into structured, controllable workflow execution.
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.

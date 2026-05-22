@@ -215,3 +215,15 @@ Ao submeter: exibir mensagem de sucesso inline (sem reload)
 - Botões com border-radius 100px e box-shadow colorido
 - Linguagem: português brasileiro, tom confiante e próximo
 
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.
+

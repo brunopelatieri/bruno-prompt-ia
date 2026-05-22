@@ -180,3 +180,15 @@ Eficiência que simplifica experiências e multiplica crescimento.
 Orquestração inteligente para eficiência máxima e crescimento previsível.
 Mais produtividade, menos custo — a base do crescimento sustentável.
 Eficiência operacional que transforma metas de crescimento em resultados reais.
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2026 – Documentação técnica unificada.

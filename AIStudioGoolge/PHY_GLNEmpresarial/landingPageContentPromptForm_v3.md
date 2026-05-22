@@ -36,3 +36,15 @@ Empresa: [Nome da empresa]"
 - Código pronto para produção.
 
 Não recrie o formulário. Não use bibliotecas externas.
+
+---
+
+# 👤 Autor
+
+Bruno Pelatieri Goulart  
+Enterprise AI Workflow Architect  
+LLM Orchestration • Deterministic Automation • n8n Systems
+
+---
+
+© 2025 – Documentação técnica unificada.
